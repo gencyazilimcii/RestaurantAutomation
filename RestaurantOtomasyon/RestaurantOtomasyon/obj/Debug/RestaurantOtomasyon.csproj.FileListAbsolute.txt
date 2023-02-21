@@ -1,0 +1,10 @@
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\bin\Debug\RestaurantOtomasyon.exe.config
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\bin\Debug\RestaurantOtomasyon.exe
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\bin\Debug\RestaurantOtomasyon.pdb
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\obj\Debug\RestaurantOtomasyon.csproj.AssemblyReference.cache
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\obj\Debug\RestaurantOtomasyon.frmGiris.resources
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\obj\Debug\RestaurantOtomasyon.Properties.Resources.resources
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\obj\Debug\RestaurantOtomasyon.csproj.GenerateResource.cache
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\obj\Debug\RestaurantOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\obj\Debug\RestaurantOtomasyon.exe
+C:\Users\jombi\Desktop\Otomasyonlar\RestaurantOtomasyon\RestaurantOtomasyon\obj\Debug\RestaurantOtomasyon.pdb
